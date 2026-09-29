@@ -1,16 +1,30 @@
-## Hi there 👋
+# ik ben Bram Oostendrop
 
-<!--
-**bramO6557/bramO6557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Frontend Developer  
+ik ben een frontend developer ik vind het leuk om met Html en CSS te werken
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills 
+
+### 🌐 Web Development  
+- **HTML**  
+- **CSS**  
+- **Tailwind CSS**  
+- **Bootstrap CSS**  
+- **Foundation CSS**
+
+---
+
+## 📈 Waar ik momenteel aan werk
+- Het verbeteren van mijn frontend skills  
+- Kleine projecten om mijn kennis te verbeteren  
+- Experimenteren met verschillende CSS frameworks
+
+---
+
+## 📫 Contact
+je kan me via hier contacteeren 
+
+- ✉️ E-mail: *Oostendorpbram@gmail.com*  
+
