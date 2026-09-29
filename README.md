@@ -1,7 +1,7 @@
 # ik ben Bram Oostendrop
 
 ### 💻 Frontend Developer  
-ik ben een frontend developer ik vind het leuk om met Html en CSS te werken
+ik ben een frontend developer ik vind het leuk om met Html,CSS en JavaScript te werken
 
 ---
 
@@ -13,6 +13,7 @@ ik ben een frontend developer ik vind het leuk om met Html en CSS te werken
 - **Tailwind CSS**  
 - **Bootstrap CSS**  
 - **Foundation CSS**
+- **JavaScript**
 
 ---
 
